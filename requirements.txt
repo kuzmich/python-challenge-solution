@@ -1,2 +1,3 @@
+jupyter
 Pillow
 matplotlib
