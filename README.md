@@ -1,4 +1,4 @@
-![Python 3](https://img.shields.io/badge/python-3-blue.svg)
+[![Python 3](https://img.shields.io/badge/python-3-blue.svg)](https://www.python.org/downloads/)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kuzmich/python-challenge-solution/master?filepath=solution.ipynb)
 
 This repo contains my solutions to the excelent [The Python Challenge](http://www.pythonchallenge.com) puzzles.
