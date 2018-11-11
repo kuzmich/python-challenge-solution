@@ -6,7 +6,7 @@ You can [view the code here on GitHub](solution.ipynb), or you can actually
 [run the code (and play with it)](https://mybinder.org/v2/gh/kuzmich/python-challenge-solution/master?filepath=solution.ipynb)
 in the full-featured [Jupyter Notebook](https://jupyter.org/) environment with [Binder](https://mybinder.org/).
 
-Also you can play with the code on your computer as well:
+You can also play with the code on your computer (assuming you have Python 3 installed):
 
 1. Clone the repo:
 
