@@ -20,6 +20,7 @@ You can also play with the code on your computer (assuming you have Python 3 ins
     
 3. Install the requirements:
     
+		pip install jupyter
         pip install -r requirements.txt
     
 4. Run the notebook:
